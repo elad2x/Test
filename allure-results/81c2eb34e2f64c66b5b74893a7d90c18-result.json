@@ -1,0 +1,106 @@
+{
+  "uuid": "59148efb-6bcd-42f2-967a-92fec113ac9b-tr-0-1007",
+  "historyId": "AutomationFrameworkV2.Tests.TestAllPage.TC07_Page1",
+  "fullName": "AutomationFrameworkV2.Tests.TestAllPage.TC07_Page1",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#3"
+    },
+    {
+      "name": "host",
+      "value": "ELAD-PC"
+    },
+    {
+      "name": "package",
+      "value": "AutomationFrameworkV2.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TC07_Page1"
+    },
+    {
+      "name": "testClass",
+      "value": "TestAllPage"
+    },
+    {
+      "name": "severity",
+      "value": "minor"
+    }
+  ],
+  "links": [],
+  "name": "TC07_Page1",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  String lengths are both 35. Strings differ at index 34.\r\n  Expected: \"Please enter a valid email address!\"\r\n  But was:  \"Please enter a valid email address.\"\r\n  ---------------------------------------------^\r\n",
+    "trace": "   at AutomationFrameworkV2.Tests.TestAllPage.TC07_Page1() in C:\\Users\\eladn.NTDOM\\source\\repos\\AutomationFrameworkV2\\AutomationFrameworkV2\\Tests\\TestAllPage.cs:line 98\r\n"
+  },
+  "stage": "finished",
+  "description": "Test invalid email\n",
+  "steps": [
+    {
+      "name": "TC07_Page1",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  String lengths are both 35. Strings differ at index 34.\r\n  Expected: \"Please enter a valid email address!\"\r\n  But was:  \"Please enter a valid email address.\"\r\n  ---------------------------------------------^\r\n",
+        "trace": "   at AutomationFrameworkV2.Tests.TestAllPage.TC07_Page1() in C:\\Users\\eladn.NTDOM\\source\\repos\\AutomationFrameworkV2\\AutomationFrameworkV2\\Tests\\TestAllPage.cs:line 98\r\n"
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Fill info Yoni,Cohen,yonigmail.com",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [
+            {
+              "name": "String",
+              "value": "Yoni"
+            },
+            {
+              "name": "String",
+              "value": "Cohen"
+            },
+            {
+              "name": "String",
+              "value": "yonigmail.com"
+            }
+          ],
+          "start": 1677678060143,
+          "stop": 1677678063514
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Full page screenshot",
+          "source": "c226d2c6cf674b23b233ab31223b9bc6-attachment",
+          "type": "image/jpeg"
+        },
+        {
+          "name": "Console Output",
+          "source": "2d317c943d854a49823cef253dba95c9-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1677678060143,
+      "stop": 1677678064411
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1677678060143,
+  "stop": 1677678064411
+}

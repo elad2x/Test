@@ -1,0 +1,98 @@
+{
+  "uuid": "f47cb5a6-a7ed-49a2-a487-5b3e704cbc1c-tr-0-1008",
+  "historyId": "AutomationFrameworkV2.Tests.TestAllPage.TC08_Page1",
+  "fullName": "AutomationFrameworkV2.Tests.TestAllPage.TC08_Page1",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#2"
+    },
+    {
+      "name": "host",
+      "value": "ELAD-PC"
+    },
+    {
+      "name": "package",
+      "value": "AutomationFrameworkV2.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TC08_Page1"
+    },
+    {
+      "name": "testClass",
+      "value": "TestAllPage"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    }
+  ],
+  "links": [],
+  "name": "TC08_Page1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "TC08_Page1"
+  },
+  "stage": "finished",
+  "description": "Test empty first name\n",
+  "steps": [
+    {
+      "name": "TC08_Page1",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Fill info ,Cohen,yoni@gmail.com",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [
+            {
+              "name": "String",
+              "value": ""
+            },
+            {
+              "name": "String",
+              "value": "Cohen"
+            },
+            {
+              "name": "String",
+              "value": "yoni@gmail.com"
+            }
+          ],
+          "start": 1677676020917,
+          "stop": 1677676024220
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "7bcec47a925a437fb2867349eb9b5c40-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1677676017781,
+      "stop": 1677676024262
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1677676017781,
+  "stop": 1677676024262
+}

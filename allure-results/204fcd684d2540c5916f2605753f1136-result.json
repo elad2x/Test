@@ -1,0 +1,69 @@
+{
+  "uuid": "b4a6cb99-5446-4a4a-bbce-e462c324a716-tr-0-1005",
+  "historyId": "AutomationFrameworkV2.Tests.TestAllPage.TC05_Page2",
+  "fullName": "AutomationFrameworkV2.Tests.TestAllPage.TC05_Page2",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#2"
+    },
+    {
+      "name": "host",
+      "value": "ELAD-PC"
+    },
+    {
+      "name": "package",
+      "value": "AutomationFrameworkV2.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TC05_Page2"
+    },
+    {
+      "name": "testClass",
+      "value": "TestAllPage"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    }
+  ],
+  "links": [],
+  "name": "TC05_Page2",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "TC05_Page2"
+  },
+  "stage": "finished",
+  "description": "Test previous buton\n",
+  "steps": [
+    {
+      "name": "TC05_Page2",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "52a52b6b325a41b5954c5d6b8e2b253d-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1677676007462,
+      "stop": 1677676010544
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1677676007462,
+  "stop": 1677676010545
+}

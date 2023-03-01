@@ -1,0 +1,106 @@
+{
+  "uuid": "72b1126e-916a-4404-bd88-8ce77257cc85-tr-0-1001",
+  "historyId": "AutomationFrameworkV2.Tests.TestAllPage.TC01_Page1",
+  "fullName": "AutomationFrameworkV2.Tests.TestAllPage.TC01_Page1",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#3"
+    },
+    {
+      "name": "host",
+      "value": "ELAD-PC"
+    },
+    {
+      "name": "package",
+      "value": "AutomationFrameworkV2.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TC01_Page1"
+    },
+    {
+      "name": "testClass",
+      "value": "TestAllPage"
+    },
+    {
+      "name": "feature",
+      "value": "Fill information"
+    },
+    {
+      "name": "story",
+      "value": "first Story related to tasks"
+    },
+    {
+      "name": "severity",
+      "value": "blocker"
+    }
+  ],
+  "links": [],
+  "name": "TC01_Page1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "TC01_Page1"
+  },
+  "stage": "finished",
+  "description": "Test filling information\n",
+  "steps": [
+    {
+      "name": "TC01_Page1",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Fill info Yoni,Cohen,yoni@gmail.com",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [
+            {
+              "name": "String",
+              "value": "Yoni"
+            },
+            {
+              "name": "String",
+              "value": "Cohen"
+            },
+            {
+              "name": "String",
+              "value": "yoni@gmail.com"
+            }
+          ],
+          "start": 1677678037740,
+          "stop": 1677678041097
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "c2ccd489bcfe44cda31c728009cd530c-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1677678037737,
+      "stop": 1677678041129
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1677678037737,
+  "stop": 1677678041133
+}

@@ -1,0 +1,69 @@
+{
+  "uuid": "00b7a614-5b34-4bde-b45c-47b2d4a47884-tr-0-1002",
+  "historyId": "AutomationFrameworkV2.Tests.TestAllPage.TC02_Page2",
+  "fullName": "AutomationFrameworkV2.Tests.TestAllPage.TC02_Page2",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#3"
+    },
+    {
+      "name": "host",
+      "value": "ELAD-PC"
+    },
+    {
+      "name": "package",
+      "value": "AutomationFrameworkV2.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TC02_Page2"
+    },
+    {
+      "name": "testClass",
+      "value": "TestAllPage"
+    },
+    {
+      "name": "severity",
+      "value": "blocker"
+    }
+  ],
+  "links": [],
+  "name": "TC02_Page2",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "TC02_Page2"
+  },
+  "stage": "finished",
+  "description": "Test selecting level\n",
+  "steps": [
+    {
+      "name": "TC02_Page2",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "61dad5a1fc1247d2bf58950a47d13352-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1677678041161,
+      "stop": 1677678047309
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1677678041161,
+  "stop": 1677678047309
+}

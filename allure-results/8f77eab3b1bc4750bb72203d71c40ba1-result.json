@@ -1,0 +1,69 @@
+{
+  "uuid": "118466e2-c7d3-45d6-8d21-28bc48ff2b80-tr-0-1003",
+  "historyId": "AutomationFrameworkV2.Tests.TestAllPage.TC03_Page3",
+  "fullName": "AutomationFrameworkV2.Tests.TestAllPage.TC03_Page3",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#3"
+    },
+    {
+      "name": "host",
+      "value": "ELAD-PC"
+    },
+    {
+      "name": "package",
+      "value": "AutomationFrameworkV2.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "TC03_Page3"
+    },
+    {
+      "name": "testClass",
+      "value": "TestAllPage"
+    },
+    {
+      "name": "severity",
+      "value": "blocker"
+    }
+  ],
+  "links": [],
+  "name": "TC03_Page3",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "TC03_Page3"
+  },
+  "stage": "finished",
+  "description": "Test filling information\n",
+  "steps": [
+    {
+      "name": "TC03_Page3",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "051c899362bb4ff3a5665bb4986f7403-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1677678047312,
+      "stop": 1677678050720
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1677678047312,
+  "stop": 1677678050721
+}
